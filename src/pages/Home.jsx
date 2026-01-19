@@ -1,4 +1,4 @@
-import PokemonList from "../features/pokemon/pokemonList";
+import PokemonList from "../features/pokemon/PokemonList";
 export default function Home() {
     return (
         <main className="p-6 max-w-7xl mx-auto">
